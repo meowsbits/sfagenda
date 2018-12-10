@@ -37,4 +37,10 @@ __ETCLABs Incubator__
   + biz and profit
   + blockchainz
 
+__Staffing__
+- [ ] Geth
+- [ ] Emerald
+- [ ] SputnikVM
+- [ ] Project management
+- [ ] Market research or BA (not suggesting, just asking)
 
