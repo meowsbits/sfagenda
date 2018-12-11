@@ -1,19 +1,35 @@
 > 2018 Dec 12-15
 
+This is a living document: Please feel welcome to add and edit as you see fit. Want Darcy to eat monkey brains for lunch on Thursday? Just add it to the agenda! Just _no_ `--force`ing!
 
 ## Schedule
 
-#### Wednesday evening
+We have Wednesday evening, all day Thursday, and Friday morning.
 
-#### Thursday
+There is a meeting at the Daily time on Thursday and Friday that will include the "Easterlies" who unfortunately can't make it to this continent on such short notice. These meetings will last 1 hour.
 
-#### Friday morning
+__Required reading:__ [Questions](#Questions) below
+
+These meetings and time spent together should result in _Answers_ to these questions, which will be versioned and documented on the ['answers' branch](https://github.com/meowsbits/sfagenda/tree/answers) for easy diffing. From there, and with whole team review and approval, they will be documented and implemented as relevant at places like the notorious https://github.com/meowsbits/kryptoknow.
+
+
+| Day       |       UTC | Pacific Time (UTC-8) | Question/Topic                                                                                                                            | Notes                                                                                  |
+| ---       |       --- |                  --- | ---                                                                                                                                       | ---                                                                                    |
+| Wednesday | 0030-0130 |            1830-1930 | ETCLABS-hosted meetup                                                                                                                     | [on eventbrite](https://www.eventbrite.com/e/hashing-mining-oh-my-tickets-52030649072) |
+| Wednesday |           |          2030-:moon: | :beers:                                                                                                                                   |                                                                                        |
+| Thursday  | 1600-1700 |            0800-0900 | Team name, what are we going to work on, long-term values and priorities (and logistics, eg. legal), current state of recruitment+hiring  | https://zoom.us/j/6709779999                                                           |
+| Thursday  |           |            0900-1200 | Continue long term discusion if necessary, and then 2-month-scoped priorities for those projects                                          |                                                                                        |
+| Thursday  |           |            1200-1300 | Security practices, github admin and security specs, development infrastructure (CI, storage), build and distribution standards           |                                                                                        |
+| Thursday  |           |            1300-1400 | [Working lunch, delivery] __TODO: What's for lunch?__                                                                                     |                                                                                        |
+|           |           |                 1400 | PR channels, practices                                                                                                                    |                                                                                        |
+| Thursday  |           |            1600-1700 | Relationship to ETCLABs incubator cohort and curriculum                                                                                   |                                                                                        |
+| Thursday  |           |                 1830 | [Dinner] __TODO: Where's dinner?__                                                                                                        |                                                                                        |
+| Friday    | 1600-1700 |            0800-0900 | "Working together" practices, policies, and patterns (_not_ tooling, expenses, or style), recruiting and hiring, PR channels and policies | https://zoom.us/j/6709779999                                                           |
+|           |           |            0900-1030 | Expenses, tooling, and style: patterns and policies                                                                                       |                                                                                        |
+| Friday    |           |                1100- | Schedule next all-hands meetup                                                                                                            |                                                                                        |
+|           |           |                      |                                                                                                                                           |                                                                                        |
 
 ----
-
-## Hit list
-
-> These unscheduled questions, discussion, and meeting points should be organized and moved to the [Schedule](#=Schedule) :arrow_up:
 
 #### Questions
 
@@ -126,6 +142,9 @@
 		* What tools shall we use?
 		* What are long range priorities and values for the project?
 		* What are 2-month-scoped next steps?
+        
+    + :sky:
+        * Anything else?
 
 - How do we relate to ETC LABS Incubator?
 	+ Do we spend 10% of time interfacing/advising them?
@@ -182,6 +201,10 @@
 
 #### Topics
 
+> These unscheduled discussion and meeting points should be organized into Question format,
+> and then moved to the [Questions](#Questions) section above :arrow_up:
+
+
 __PR/community relations w/r/t whos forking who__
 - [ ]
 
@@ -190,7 +213,7 @@ __Team infrastructure and tools__
 - [ ] [project management tools](https://github.com/meowsbits/kryptoknow/issues/4)
 
 __Team practices and policies__
-- [ ] Recruiting and hiring
+- [ ] | Recruiting and hiring
 - [ ] Practices and policies here: https://github.com/meowsbits/kryptoknow#daily-developer-routine-practices-and-policies
 
 __Roadmapping__
