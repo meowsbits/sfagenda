@@ -13,12 +13,13 @@
 
 ## Hit list
 
-> These unscheduled discussion and meeting points should be organized and moved to the [Schedule](#=Schedule) :arrow_up:
+> These unscheduled questions, discussion, and meeting points should be organized and moved to the [Schedule](#=Schedule) :arrow_up:
 
 #### Questions
 
 - Q: Which repos are we going to contribute to (in light of `krykoder` antics)?
   + Shall we fork ETCDEVTeam/ repos?
+  + Shall we contribute to ethereumproject/ repos?
   + Shall we contribute to ethereumclassic/ repos?
 
 - Q: We name an offical 'brand' name. What shall it be? (No, `ETC DEV LABS TEAM` is not going to fly ;)
