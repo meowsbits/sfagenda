@@ -68,7 +68,7 @@
 				- Slack (pro?)
 				- Zoom
 				- Jira
-		- How are we going to manage the planning and progress reporting? (eg. Sprints, Sprint planning, Agile...) 
+		- How are we going to manage the planning and progress reporting? (eg. Roadmaps, Sprints, Sprint planning and retrospectives) 
 		- When are we going to schedule time for these things? (Daily mtgs, Biweekly sprint plans)
 		- Are these sessions all-hands, or shall we break these into small project-teams?
 
@@ -78,6 +78,9 @@
 	+ Shall we have scheduled "watercooler" time?
 	+ Shall and how shall we schedule team in-person roundups? (eg. Poland)
 		* Shall these always be all-hands, or occasionally per project group?
+	+ What are some rules of thumb and checklists for awesomeness-assurance that we can work and live by?
+		* eg. 
+			- If someone's blocked, drop what you're doing and help them (all for one, and one for all).
 
 - Q: What are we going to work on?
 	+ Geth:
@@ -148,12 +151,15 @@
 		* Behavior and acceptable-use policies
 		* Volume and frequency
 
-- Q: What are some rules of thumb and checklists for awesomeness-assurance that we can work and live by?
-	+ eg. 
-		- If someone's blocked, drop what you're doing and help them (all for one, and one for all).
 
-- Q: Team and team member resources.
-	+ 
+- Q: What are our expense policies and practices for team and team member resources?
+	+ eg.
+		- Standard monthly allowance for hardware and compute infrastructure costs (eg. VPS rent, hardware wallet, OS's, IDE licenses)
+		- Standard allowance and timing policies for "Oh, shit" hardware and compute infrastructure costs (eg. spillt ~beer~ coffee)
+		- Standard allowance for do-ocracy principles and independent research (eg. buy an Arduino, make a blockchain flamethrower)
+		- Standard allowance for education; eg. books, courses, gatherings
+		- Travel policies
+	+ How do we handle billing and expense reporting?
 
 
 #### Topics
