@@ -17,15 +17,15 @@
 
 #### Questions
 
-- Q: Which repos are we going to contribute to (in light of `krykoder` antics)?
+- Which repos are we going to contribute to (in light of `krykoder` antics)?
 	+ Shall we fork ETCDEVTeam/ repos?
 	+ Shall we contribute to ethereumproject/ repos?
 	+ Shall we contribute to ethereumclassic/ repos?
 
-- Q: We name an offical 'brand' name. What shall it be? (No, `ETC DEV LABS TEAM` is not going to fly ;)
+- We name an offical 'brand' name. What shall it be? (No, `ETC DEV LABS TEAM` is not going to fly ;)
 
-- Q: We need to set up development infrastructure and tooling.
-	- Q: We need to set up a Github organization.
+- We need to set up development infrastructure and tooling.
+	- We need to set up a Github organization.
 		+ What shall our name be?
 		+ How do we handle the billing?
 		+ Shall we have standard policies for pushing to repos?
@@ -37,17 +37,17 @@
 		+ Who's going to be in charge of this?
 		+ When should it be done by?
 
-	- Q: We need to set up Circle CI.
+	- We need to set up Circle CI.
 		+ How do we handle the billing?
 		+ Who's going to be in charge of this?
 		+ When should it be done by?
 
-	- Q: We need to set up Appveyor.
+	- We need to set up Appveyor.
 		+ How do we handle the billing?
 		+ Who's going to be in charge of this?
 		+ When should it be done by?
 
-	- Q: We need to set up a builds site (or cloud storage in general).
+	- We need to set up a builds site (or cloud storage in general).
 		+ Shall this tie-in with a UI at a team website at a page like `/builds`?
 			* Who's going to be in charge of this?
 			* When should it be done by?
@@ -56,13 +56,13 @@
 		+ When should it be done by?
 		+ What should it do? (eg. archive all nightly builds for all time? rotate archived nightly builds, but keep tagged builds..)
 
-	- Q: Shall we standardize distribution channels across projects?
+	- Shall we standardize distribution channels across projects?
 		+ eg. `homebrew`, `snap`, `AppImage`
 		+ Who's going to be in charge of this?
 		+ When should it be done by?
 
-- Q: We're going to need to work together.
-	+ Q: We're going to need to keep track of who's doing what and when, if they're blocked, and what the current and historical progress is.
+- We're going to need to work together.
+	+ We're going to need to keep track of who's doing what and when, if they're blocked, and what the current and historical progress is.
 		- What tools are we going to use?
 			- eg.
 				- Slack (pro?)
@@ -82,7 +82,7 @@
 		* eg. 
 			- If someone's blocked, drop what you're doing and help them (all for one, and one for all).
 
-- Q: What are we going to work on?
+- What are we going to work on?
 	+ Geth:
 		* Are we going to continue work on ethereumproject/go-ethereum?
 		* Are we going to work on ethoxy/multi-geth?
@@ -110,7 +110,7 @@
 		* What are long range priorities and values for the project?
 		* What are 2-month-scoped next steps?
 
-- Q: How do we relate to ETC LABS Incubator?
+- How do we relate to ETC LABS Incubator?
 	+ Do we spend 10% of time interfacing/advising them?
 	+ Are there existing programs that ETC LABs puts the teams through, ie educational, industry-facing?
 		* Who's in charge of pulling these together?
@@ -118,13 +118,13 @@
 		* Business in general, esp. Silicon Valley
 		* Blockchain tech, both w/r/t ETC, et al.
 
-- Q: Are we hiring?
+- Are we hiring?
 	+ Who's in charge of this?
 	+ (Why am I being invited to random-seeming interviews with strange-looking candidates with no context)?
 	+ What positions are we hiring for?
 	+ Where and how are we canvassing for candidates?
 
-- Q: Looking beyond ourselves...
+- Looking beyond ourselves...
 	+ Who are we going to prioritize engagement with?
 		* Developers, miners, industry end-users, investors?
 	+ Where are those channels going to be in each case?
@@ -152,7 +152,7 @@
 		* Volume and frequency
 
 
-- Q: What are our expense policies and practices for team and team member resources?
+- What are our expense policies and practices for team and team member resources?
 	+ eg.
 		- Standard monthly allowance for hardware and compute infrastructure costs (eg. VPS rent, hardware wallet, OS's, IDE licenses)
 		- Standard allowance and timing policies for "Oh, shit" hardware and compute infrastructure costs (eg. spillt ~beer~ coffee)
