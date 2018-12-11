@@ -25,14 +25,14 @@
 
 - Q: We need to set up development infrastructure and tooling.
 	- Q: We need to set up a Github organization.
-	  + What will our name be?
+	  + What shall our name be?
 	  + How do we handle the billing?
-	  + Will we have standard policies for pushing to repos?
+	  + Shall we have standard policies for pushing to repos?
 	    * Review signoffs
 	    * Commit message formatting
 	    * Passing tests
 	    * Passing builds
-	  + What `roles` and permissions will team members have, and how is this determined?
+	  + What `roles` and permissions shall team members have, and how is this determined?
 	  + Who's going to be in charge of this?
 	  + When should it be done by?
 
@@ -47,7 +47,7 @@
 	  + When should it be done by?
 
 	- Q: We need to set up a builds site (or cloud storage in general).
-	  + Will this tie-in with a UI at a team website at a page like `/builds`?
+	  + Shall this tie-in with a UI at a team website at a page like `/builds`?
 		  * Who's going to be in charge of this?
 		  * When should it be done by?
 	  + How do we handle the billing?
@@ -55,7 +55,7 @@
 	  + When should it be done by?
 	  + What should it do? (eg. archive all nightly builds for all time? rotate archived nightly builds, but keep tagged builds..)
 
-	- Q: Will we standardize distribution channels across projects?
+	- Q: Shall we standardize distribution channels across projects?
 	  + eg. `homebrew`, `snap`, `AppImage`
 	  + Who's going to be in charge of this?
 	  + When should it be done by?
@@ -69,14 +69,14 @@
             - Jira
     - How are we going to manage the planning and progress reporting? (eg. Sprints, Sprint planning, Agile...) 
     - When are we going to schedule time for these things? (Daily mtgs, Biweekly sprint plans)
-    - Are these sessions all-hands, or will we break these into small project-teams?
+    - Are these sessions all-hands, or shall we break these into small project-teams?
 
-  + Will we establish shared "time-online" windows?
-  + Will we have scheduled time for code reviews?
-  + Will we have scheduled time and protocols for progress and performance feedback?
-  + Will we have scheduled "watercooler" time?
-  + Will and how will we schedule team in-person roundups? (eg. Poland)
-    * Will these always be all-hands, or occasionally per project group?
+  + Shall we establish shared "time-online" windows?
+  + Shall we have scheduled time for code reviews?
+  + Shall we have scheduled time and protocols for progress and performance feedback?
+  + Shall we have scheduled "watercooler" time?
+  + Shall and how shall we schedule team in-person roundups? (eg. Poland)
+    * Shall these always be all-hands, or occasionally per project group?
 
 - Q: What are we going to work on?
   + Geth:
@@ -97,12 +97,12 @@
 
   + SputnikVM:
     * Are we going to continue work on SputnikVM?
-    * (Will we fork it?)
+    * (Shall we fork it?)
     * What are long range priorities and values for the project?
     * What are 2-month-scoped next steps?
 
   + Documentation:
-    * What tools will we use?
+    * What tools shall we use?
     * What are long range priorities and values for the project?
     * What are 2-month-scoped next steps?
 
